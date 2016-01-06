@@ -1,0 +1,20 @@
+.intro{
+  color: purple;
+  font-family: cursive;
+  font-size: 150%;
+}
+
+.about{
+  color: green;
+  font-size: 75%;
+  text-align: right;
+  width: 40%;
+  margin-left: 60%;
+}
+
+.blog{
+  text-align: center;
+  margin-left: 25%;
+  background-color: grey;
+  width: 50%;
+}
